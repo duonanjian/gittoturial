@@ -1,2 +1,3 @@
-# gittoturial
-- Git练习
+# Git 练习
+- Git 基本命令
+- Git commit 合并
