@@ -4,4 +4,9 @@
 - Git 基本命令
 - Git commit 合并
 - re分支
-- get reset --mixed rrrrrrrrr HEAD
+- git reset --mixed  HEAD
+
+# 回退
+- git reset HEAD = git reset --mixed HEAD
+- git reset HEAD~1
+- git reset --soft HEAD
