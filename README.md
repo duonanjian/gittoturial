@@ -4,3 +4,4 @@
 - Git 基本命令
 - Git commit 合并
 - re分支
+- get reset --mixed rrrrrrrrr HEAD
