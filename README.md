@@ -10,3 +10,6 @@
 - git reset HEAD = git reset --mixed HEAD
 - git reset HEAD~1 
 - git reset --soft HEAD
+
+# rebase
+- git rebase -i id
